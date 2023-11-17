@@ -50,3 +50,4 @@ https://www.kaggle.com/datasets/rcd1693/yale-admissions
 
 ## License
 Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO)
+(https://creativecommons.org/licenses/by-nc-sa/3.0/igo/)
